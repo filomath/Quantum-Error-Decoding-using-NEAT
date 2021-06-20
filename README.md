@@ -1,3 +1,4 @@
 # QOSF-Mentorship-Program
-My solution to the screening task for the Quantum Computing program offered by Quantum Open Source Foundation.
-The are some problems with displaying column vectors while viewing the notebook via GitHub.
+This repositorium contains the report of my project done in course of the program offered by Quantum Open Source Foundation.
+The goal was to implement the following paper: https://arxiv.org/abs/2101.08093 and learn about toric code and neuro-evolution along the way.
+This repo also includes my solution to the screening task for the program.
